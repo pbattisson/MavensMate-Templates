@@ -14,6 +14,19 @@
             ]
         },
         {  
+            "name":"Londons Calling Class",
+            "file_name":"ApexClassLondonsCalling.cls",
+            "description":"A Londons Calling examples",
+            "author":"MavensMate",
+            "params":[  
+                {  
+                    "name":"api_name",
+                    "description":"Apex Class API Name",
+                    "default":"MyApexClass"
+                }
+            ]
+        },
+        {  
             "name":"ApexInterface",
             "file_name":"ApexInterface.cls",
             "description":"The default template for an Apex Interface",
